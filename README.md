@@ -8,7 +8,7 @@ I am a **Software Engineering Student** 🇪🇹 based in Ethiopia.
 
 ## 📫 Connect with Me
 
-<a href="https://www.linkedin.com/in/kenean-dita-55a52725b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atiq abdullah" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kenean-dita-55a52725b/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atiq abdullah" height="30" width="40" /></a>
 
 ## 🛠 Languages and Tools
 
