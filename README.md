@@ -11,7 +11,6 @@
 
 I am a **Software Engineering Student**.
 
-- Currently **Learning and looking for internships**
 
 ## 📫 Connect with Me
 
