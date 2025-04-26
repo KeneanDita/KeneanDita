@@ -7,14 +7,14 @@
 </div>
 
 
-## 👨‍💻 About Me
+<h2 align="center">👨‍💻 About Me</h2>
 
 I am a **Software Engineering Student**.
 
 
-## 📫 Connect with Me
+<h2 align="center"> 📫 Connect with Me</h2>
 
-<a href="https://www.linkedin.com/in/kenean-dita-55a52725b/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atiq abdullah" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kenean-dita-55a52725b/" target="_blank" align="center"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atiq abdullah" height="30" width="40" /></a>
 
 ## 🛠 Languages and Tools
 
