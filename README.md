@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 
 <h1>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=700&height=100&duration=4000&lines=Hello+There!+👋;+💥+My+Name+is+Kenean+Dita!+💥;+✨+Software+Engineering+Student!+✨;" alt="Typing SVG" />
