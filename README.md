@@ -4,13 +4,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=700&height=100&duration=4000&lines=Name's+Kenean+Dita!+👋;+💥+Like+James+Bond!+✨;+💥+But+with+fewer+explosions!+💥;" alt="Typing SVG" />
 </h1>
 <h2 align="center">📫 Connect with Me</h2>
-<p align="center">
+<p align="center" target="_blank">
   <a href="https://www.linkedin.com/in/kenean-dita-55a52725b/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
-<br>
-
 <h2 align="center">🛠 Languages and Tools</h2>
 
 <p align="center">
