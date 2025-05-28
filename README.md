@@ -42,7 +42,10 @@ Kenean Dita
 ![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
 
 ![SSMS](https://img.shields.io/badge/SSMS%20-%23CC2927.svg?&style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL%20-%23007396.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+[![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![SourceTree](https://img.shields.io/badge/SourceTree-%230072C6.svg?&style=for-the-badge&logo=sourcetree&logoColor=white)](https://www.sourcetreeapp.com/)
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)](https://powerbi.microsoft.com/)
+[![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?&style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)
 
 ![Terminal](https://img.shields.io/badge/terminal-linux?logo=gnubash&logoColor=white&style=for-the-badge)
 ![Windows](https://img.shields.io/badge/Windows%20-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white)
