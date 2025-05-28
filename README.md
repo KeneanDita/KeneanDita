@@ -3,6 +3,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=700&height=100&duration=4000&lines=Name's+Kenean+Dita!+👋;+💥+Like+James+Bond!+✨;+💥+But+with+fewer+explosions!+💥;" alt="Typing SVG" />
 </h1>
 
+
+*"I train models and my plants. Only one of them survives the hyperparameters."*
+
+Kenean Dita
+
 ### Languages and Tools:
 
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
@@ -45,6 +50,7 @@
 
 ### Fun fact
 I once tried to teach my computer to make coffee. Now it just keeps giving me Java errors.
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeneanDita&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
 </p>
