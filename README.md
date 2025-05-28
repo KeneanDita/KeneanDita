@@ -19,16 +19,14 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn%20-%230F4150.svg?&style=for-the-badge&logo=seaborn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white)
 
-
-![Heroku](https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Colab](https://img.shields.io/badge/Colab%20-%2320232a.svg?&style=for-the-badge&logo=google&logoColor=white)
 
 ![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-![Javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Flask](https://img.shields.io/badge/flask%20-%2307405e.svg?&style=for-the-badge&logo=flask&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown%20-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white)
+![Flask](https://img.shields.io/badge/flask%20-%2307405e.svg?&style=for-the-badge&logo=flask&logoColor=white)
+![Javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
@@ -38,7 +36,6 @@
 ![SQL](https://img.shields.io/badge/SQL%20-%23007396.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 
 ![Terminal](https://img.shields.io/badge/terminal-linux?logo=gnubash&logoColor=white&style=for-the-badge)
-![Linux](https://img.shields.io/badge/-linux-772953?style=for-the-badge&logo=linux)
 ![Windows](https://img.shields.io/badge/Windows%20-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white)
 
 ### Connect with me
