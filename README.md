@@ -50,7 +50,10 @@ Kenean Dita
 ### Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenean-dita-55a52725b/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/KeneanDita)
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:Keneansufa@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Kenean.dita)
+[![Telegram](https://img.shields.io/badge/Telegram-%230089D9.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KeneanDita)
 
 ### Fun fact
 I once tried to teach my computer to make coffee. Now it just keeps giving me Java errors.
