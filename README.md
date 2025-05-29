@@ -57,8 +57,6 @@ Kenean Dita
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Kenean.dita)
 [![Telegram](https://img.shields.io/badge/Telegram-%230089D9.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KeneanDita)
 
-### Fun fact
-I once tried to teach my computer to make coffee. Now it just keeps giving me Java errors.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeneanDita&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
