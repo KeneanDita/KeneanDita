@@ -58,6 +58,6 @@ Kenean Dita
 [![Telegram](https://img.shields.io/badge/Telegram-%230089D9.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KeneanDita)
 
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeneanDita&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
 </p>
