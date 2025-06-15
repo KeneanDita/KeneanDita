@@ -2,7 +2,7 @@
 
 <h1 align="center">
     <img 
-        src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=36&center=true&vCenter=true&width=750&height=100&duration=3000&lines=Name's+Kenean+Dita!+👋;💼+Like+James+Bond…+but+in+tech!;💡+Solving+problems,+not+villains!&color=00bfa6" 
+        src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&weight=700&size=40&center=true&vCenter=true&width=700&height=100&duration=4000&lines=Name's+Kenean+Dita!+👋;+💼+Like+James+Bond…+but+in+tech!;+🧩+Solving+problems,+not+villains!&color=324a77" 
         alt="Typing SVG" 
     />
 </h1>
