@@ -34,7 +34,7 @@ Kenean Dita
 
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
-![Terminal-bash](https://img.shields.io/badge/terminal-linux?logo=gnubash&logoColor=white&style=for-the-badge)
+![Terminal](https://img.shields.io/badge/terminal-linux?logo=gnubash&logoColor=white&style=for-the-badge)
 
 ![SSMS](https://img.shields.io/badge/SSMS%20-%23CC2927.svg?&style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 [![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
