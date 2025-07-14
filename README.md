@@ -21,31 +21,26 @@ Kenean Dita
 ![SkLearn](https://img.shields.io/badge/SkLearn%20-%23E34F26.svg?&style=for-the-badge&logo=scikit%20learn&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/TensorFlow%20-%23430098.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit%20-%23FF4B4B.svg?&style=for-the-badge&logo=streamlit&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit%20-%23FF4B4B.svg?&style=for-the-badge&logo=streamlit&logoColor=white)
+
 
 ![Jupyter](https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Colab](https://img.shields.io/badge/Colab%20-%2320232a.svg?&style=for-the-badge&logo=google&logoColor=white)
 
-<!--
-![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown%20-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask%20-%2307405e.svg?&style=for-the-badge&logo=flask&logoColor=white)
-![Javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
--->
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
+![Terminal(bash)](https://img.shields.io/badge/terminal-linux?logo=gnubash&logoColor=white&style=for-the-badge)
 
 ![SSMS](https://img.shields.io/badge/SSMS%20-%23CC2927.svg?&style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 [![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![SourceTree](https://img.shields.io/badge/SourceTree-%230072C6.svg?&style=for-the-badge&logo=sourcetree&logoColor=white)](https://www.sourcetreeapp.com/)
 [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)](https://powerbi.microsoft.com/)
 [![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?&style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)
-
-![Terminal](https://img.shields.io/badge/terminal-linux?logo=gnubash&logoColor=white&style=for-the-badge)
-![Windows](https://img.shields.io/badge/Windows%20-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white)
 
 ### Connect with me
 
