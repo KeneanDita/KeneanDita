@@ -18,13 +18,6 @@ Kenean Dita
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
 
 
-![Gradio](https://img.shields.io/badge/Gradio%20-%23620CE8.svg?&style=for-the-badge&logo=gradio&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit%20-%23FF4B4B.svg?&style=for-the-badge&logo=streamlit&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI%20-%2300C7B7.svg?&style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/flask%20-%2307405e.svg?&style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white)
-
 ![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)
 ![SkLearn](https://img.shields.io/badge/SkLearn%20-%23E34F26.svg?&style=for-the-badge&logo=scikit%20learn&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-000000.svg?style=for-the-badge&logo=langchain&logoColor=white)
@@ -32,6 +25,13 @@ Kenean Dita
 ![Keras](https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/TensorFlow%20-%23430098.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white)
+
+![Gradio](https://img.shields.io/badge/Gradio%20-%23620CE8.svg?&style=for-the-badge&logo=gradio&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit%20-%23FF4B4B.svg?&style=for-the-badge&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI%20-%2300C7B7.svg?&style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/flask%20-%2307405e.svg?&style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 [![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://learn.microsoft.com/sql/)
 [![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
