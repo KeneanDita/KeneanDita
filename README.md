@@ -55,7 +55,7 @@ Kenean Dita
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/KeneanDita)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keneansufa@gmail.com)
 
-### Current Stats
+### MUL
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeneanDita&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
