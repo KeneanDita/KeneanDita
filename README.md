@@ -39,7 +39,6 @@ Kenean Dita
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
-![Terminal](https://img.shields.io/badge/terminal-linux?logo=gnubash&logoColor=white&style=for-the-badge)
 
 ![Jupyter](https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Colab](https://img.shields.io/badge/Colab%20-%2320232a.svg?&style=for-the-badge&logo=google&logoColor=white)
