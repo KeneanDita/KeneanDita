@@ -1,10 +1,11 @@
-<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap" rel="stylesheet">
+<div align="center">
 
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap" rel="stylesheet">
 
 <h1 align="center">
     <img 
-        src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&weight=700&size=40&center=true&vCenter=true&width=700&height=100&duration=4000&lines=Name's+Kenean+Dita!+👋;+Like+James+Bond…+but+in+tech!;+🧩+Solving+problems,+not+villains!&color=324a77" 
-        alt="Typing SVG" 
+        src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&weight=700&size=40&center=true&vCenter=true&width=800&height=100&duration=4000&lines=The+Name+is+Kenean+Dita;+Machine+Learning+Engineer;Crafting+smart+systems+with+finesse&color=3f8cff"
+        alt="Typing SVG"
     />
 </h1>
 
@@ -31,3 +32,5 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeneanDita&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
 </p>
+
+</div>
