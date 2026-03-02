@@ -25,6 +25,7 @@
 ![Flask](https://img.shields.io/badge/flask%20-%2307405e.svg?&style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit%20-%23FF4B4B.svg?&style=for-the-badge&logo=streamlit&logoColor=white)
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
