@@ -4,7 +4,7 @@
 
 <h1 align="center">
     <img 
-        src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&weight=700&size=40&center=true&vCenter=true&width=800&height=100&duration=4000&lines=The+Name+is+Kenean+Dita;+Machine+Learning+Engineer;Crafting+smart+systems+with+finesse&color=3f8cff"
+        src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&weight=700&size=40&center=true&vCenter=true&width=800&height=100&duration=4000&lines=The+Name+is+Kenean+Dita;+ML+/+Backend+Engineer;Crafting+smart+systems+with+finesse&color=3f8cff"
         alt="Typing SVG"
     />
 </h1>
