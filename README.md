@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap" rel="stylesheet">
 
@@ -9,7 +9,7 @@
     />
 </h1>
 
-### Languages and Tools:
+### Languages and Tools: -->
 
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white)
@@ -29,7 +29,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
-
+<!-- 
 ### MUL
 
 <p>
@@ -38,3 +38,4 @@
     alt="Top Languages" 
   />
 </p>
+-->
